@@ -27,7 +27,8 @@ I believe in continuous learning, and I'm currently exploring:
 
 ### 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=setmawhtay&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/setmawhtay)
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=setmawhtay&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=setmawhtay&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
 
 ### 📊 Most Used Languages
 
