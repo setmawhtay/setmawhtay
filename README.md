@@ -37,7 +37,7 @@ I believe in continuous learning, and I'm currently exploring:
 -->
 ### 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through [Telegram](https://t.me/setmawhtay) or [Twitter](https://twitter.com/real_setmawhtay).
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through [Telegram](https://t.me/setmawhtay) .
 
 Happy coding! 😄
 
