@@ -24,7 +24,6 @@ I believe in continuous learning, and I'm currently exploring:
 - Advanced Laravel Techniques
 - NativePHP
 
-<!--
 ### 📈 GitHub Stats
 
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=setmawhtay&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
@@ -34,7 +33,7 @@ I believe in continuous learning, and I'm currently exploring:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setmawhtay&layout=compact&theme=radical)](https://github.com/setmawhtay)
 
--->
+
 ### 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out to me through [Telegram](https://t.me/setmawhtay) .
